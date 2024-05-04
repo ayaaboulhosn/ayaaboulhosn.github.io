@@ -10,6 +10,6 @@ redirect_from:
 
 # Curriculum Vitae
 
-<iframe src="https://ayaaboulhosn.github.io/files/CV_Aya Aboulhosn.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
+<iframe src="https://ayaaboulhosn.github.io/files/CV_Aya_Aboulhosn.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 
-[Download CV](https://ayaaboulhosn.github.io/files/CV_Aya Aboulhosn.pdf)
+[Download CV]("https://ayaaboulhosn.github.io/files/CV_Aya_Aboulhosn.pdf")
