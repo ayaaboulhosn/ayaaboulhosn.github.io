@@ -10,8 +10,7 @@ locale                   : "en-US"
 title                    : "Aya Aboulhosn"
 title_separator          : "-"
 name                     : &name "Aya Aboulhosn"
-description              : &description "Associate Professor of Economics, Aoyama Gakuin University"
-url                      : https://ayaaboulhosn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "4th year PhD Candidate of Economics at American University, Washington DC"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aya Aboulhosn"
+  name             : "Yuichiro Waki"
   avatar           : "profile.png"
   bio              : "Associate Professor of Economics, Aoyama Gakuin University"
   location         : "Tokyo"
@@ -103,6 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  orcid            : "http://orcid.org/0000-0003-1929-3520"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -114,7 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchmap      : # "https://researchmap.jp/yuichirowaki/"
+  researchmap      : "https://researchmap.jp/yuichirowaki/"
 
 
 # Reading Files
