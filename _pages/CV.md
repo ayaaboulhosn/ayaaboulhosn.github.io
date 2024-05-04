@@ -12,4 +12,4 @@ redirect_from:
 
 <iframe src="https://ayaaboulhosn.github.io/files/CV_Aya_Aboulhosn.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 
-[Download CV]("https://ayaaboulhosn.github.io/files/CV_Aya_Aboulhosn.pdf")
+[Download CV](https://ayaaboulhosn.github.io/files/CV_Aya_Aboulhosn.pdf)
