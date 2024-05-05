@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-<iframe src="https://ayaaboulhosn.github.io/files/CV_Aya_Aboulhosn.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
+<iframe src="https://ayaaboulhosn.github.io/files/CV_Aya_Aboulhosn.pdf" style="width:100%; height:100%;" frameborder="0"></iframe>
 
