@@ -79,14 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuichiro Waki"
+  name             : "Aya Aboulhosn Waki"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Economics, Aoyama Gakuin University"
-  location         : "Tokyo"
-  employer         : "Aoyama Gakuin University"
+  bio              : "PhD Candidate od Economics"
+  location         : "Washington DC"
+  employer         : "American University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            : "ywakiecon@gmail.com"
+  googlescholar    : 
+  email            : "aa3701a@american.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywaki-econ"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-1929-3520"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -114,7 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  researchmap      : "https://researchmap.jp/yuichirowaki/"
+  researchmap      : 
 
 
 # Reading Files
@@ -191,18 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -218,33 +206,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+  
 # Sass/SCSS
 sass:
   sass_dir: _sass
