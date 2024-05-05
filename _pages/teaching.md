@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+redirect_from:
+  - /teaching
+---
+
+
 **Adjunct Professor: Catholic University of America**  
 *Fall 2023-present*
 
