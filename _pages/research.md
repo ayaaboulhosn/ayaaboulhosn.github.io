@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <hr>
+<div align="justify">
 
 ## Working Papers
 * “Impact of Political Risk on Emerging Market Risk Premiums and Risk Adjusted Returns” with Ralph Sonenshine 
@@ -50,5 +51,8 @@ explain the observed increase in native fertility.
   
   **Abstract:** <br>
   After decades of controversial debates on the validity of the so-called Prebisch-Singer Hypothesis, it is time to examine what other structural factors might contribute to a deterioration in the terms of trade. Building on recent research examining trade globalization and trade marginalization, this study shows that a country’s terms of trade deteriorate after a country experiences a period of significant trade marginalization, i.e., a significant decrease in a country’s export-to-GDP ratio. Though further research is needed, the emerging picture is that periods of trade marginalization cause structural changes that are then responsible for the declining terms of trade.
+
+  </div>
+ *(drafts available upon request)*
 
 
