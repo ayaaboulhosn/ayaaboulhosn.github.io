@@ -12,3 +12,4 @@ Welcome! I am a 4th year PhD Candidate of Economics at American University, Wash
 
 Before the PhD, I conducted fieldwork in Sierra Leone and with the World Bank in Lebanon. I received by Bachelors in Economics from UCLA.
 
+Email: aa3701a@american.edu
