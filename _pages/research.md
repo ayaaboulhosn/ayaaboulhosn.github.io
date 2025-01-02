@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Publications
-*“Impact of Political Risk on Emerging Market Risk Premiums and Risk Adjusted Returns” with Ralph Sonenshine*
+[*“Impact of Political Risk on Emerging Market Risk Premiums and Risk Adjusted Returns”](https://www.sciencedirect.com/science/article/abs/pii/S0275531924003660) with Ralph Sonenshine*
 Research in International Business and Finance, 2025
 
   **Abstract:** <br>
