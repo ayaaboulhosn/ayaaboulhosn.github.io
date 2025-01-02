@@ -11,7 +11,6 @@ redirect_from:
 Welcome! I am a 5th year PhD Candidate of Economics at American University, Washington DC. My research interests are in development economics on topics related to forced migration, health, gender and labor markets. 
 I am currently a [J-PAL MENA Fellow](https://www.povertyactionlab.org/updates/advancing-impact-j-pal-mena-welcomes-second-cohort-mena-scholars-fellowship-program).
 
-<br>
 <div align="justify">
 Before the PhD, I conducted fieldwork in Sierra Leone and with the World Bank in Lebanon. I received by Bachelors in Economics from UCLA.
 </div>
