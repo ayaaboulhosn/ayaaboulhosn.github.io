@@ -39,11 +39,11 @@ redirect_from:
 *“The Impact of Remittances on Household Consumption: Evidence from Jordan”*
   
   **Abstract:** <br>
-    <div align="justify">
+<div align="justify">
 
   This paper assesses the persistent effects of remittances on household expenditure patterns in Jordan from 2006-2013 for twelve categories: food and non-alcoholic beverages, alcohol and tobacco, clothing and footwear, housing and utilities, furniture and housing equipment, health, communication, recreation and culture, education, restaurants and hotels, and miscellaneous goods. To address the endogeneity concerns of remittances, I use an instrumental variable approach that measures historical district-migration networks. I rely on the Jordanian Household Expenditure and Income Survey for annual expenditure data, household characteristics, and remittances, as well as the Jordanian Demographic and Health Survey of 1990 to calculate historical migration rates. I find that an increase in remittances results in an increase in food, housing and utilities, housing furniture, and education expenditure while the consumption of alcohol and tobacco decreases. These findings suggest that households in Jordan use remittances for human capital investment rather than conspicuous consumption that, in the long run, can promote higher levels of human capital and economic development. 
-  </div>
-  <br>
+</div>
+<br>
 
 *“Declining Terms of Trade after Experiencing Trade Marginalization: Global Evidence from 1982 to 2020” with Bernhard Gunter and Eduardo Lederman Rawet*
   
