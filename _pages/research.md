@@ -27,10 +27,9 @@ Research in International Business and Finance, 2025
 **<ins>Refugees and Access to Maternal Health Care Resources: Evidence from Turkey</ins>**
 
   **Abstract:** <br>
-    <div align="justify">
-
+<div align="justify">
   The present study is the first to estimate the causal impact of an exogenous migration shock—Syrian refugee inflows into Turkey—on native women’s access to reproductive health care services. Using a distance-based instrument, I find that Turkish women exposed to a higher concentration of migrants experience higher rates of reproductive healthcare access, as compared to women who are not exposed to the migrant shock. I estimate that pre-maternal and post-maternal care usage among native women rises by 1.87 and 3.2 percentage points, respectively, due to an increase in the presence of Syrian migrants. The effects are largely driven by provinces that are developed in Turkey, with above-the-median GDP levels, whereas the effects disappear for provinces that are less developed. The main mechanism through which access to reproductive health services improves for natives is the increased government investment in the public health care system, but only for provinces with high GDP levels. This has important implications for both the ideal allocation of migrants across Turkey, and how policymakers can optimize the distribution of resources to compensate for the increased demand on the healthcare system. 
-  </div>
+</div>
 
 ## Work in Progress
 **<ins>The Impact of Remittances on Household Consumption: Evidence from Jordan</ins>**
