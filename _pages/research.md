@@ -11,15 +11,12 @@ redirect_from:
 
 
 ## Publications
-*[“Impact of Political Risk on Emerging Market Risk Premiums and Risk Adjusted Returns”](https://www.sciencedirect.com/science/article/abs/pii/S0275531924003660) with Ralph Sonenshine*, Research in International Business and Finance, 2025
+**[“Impact of Political Risk on Emerging Market Risk Premiums and Risk Adjusted Returns”](https://www.sciencedirect.com/science/article/abs/pii/S0275531924003660)** with Ralph Sonenshine <br>
+Research in International Business and Finance, 2025
 
-  **Abstract:** <br>
-  <div align="justify">
-  Researchers have observed the political risk, sign paradox whereby a decrease in political risk is associated with an increase in stock market returns. However, the political risk-return relationship may be driven by a few political risk factors or emerging market countries. This paper examines this issue by assessing how key political risk components impact the equity risk premiums among emerging market (EM) countries. Using monthly stock market return data for 28 EM countries from 2000-2019, we segment countries into high and low political risk groups to explore heterogeneous effects. The findings are that democracy has a negative impact on equity premiums and risk adjusted returns, while law and order and investment profile have a positive impact on risk adjusted returns for low political risk countries. In addition, improvements in external conflict and government stability indicators result in larger risk adjusted returns, with the high political risk countries driving this effect. 
-  </div>
 
 ## Working Papers
-*“Forced Migration and Natives’ Fertility” with Cevat Giray Aksoy and Berkay Ozcan*
+**<ins>“Forced Migration and Natives’ Fertility”</ins>** with Cevat Giray Aksoy and Berkay Ozcan*
 
   **Abstract:** <br>
   <div align="justify">
@@ -27,7 +24,7 @@ redirect_from:
   </div>
   <br>
 
-*“Refugees and Access to Maternal Health Care Resources: Evidence from Turkey”*
+**<ins>“Refugees and Access to Maternal Health Care Resources: Evidence from Turkey”</ins>**
 
   **Abstract:** <br>
     <div align="justify">
@@ -36,7 +33,7 @@ redirect_from:
   </div>
 
 ## Work in Progress
-*“The Impact of Remittances on Household Consumption: Evidence from Jordan”*
+**<ins>“The Impact of Remittances on Household Consumption: Evidence from Jordan”</ins>**
   
   **Abstract:** <br>
 <div align="justify">
@@ -45,7 +42,7 @@ redirect_from:
 </div>
 <br>
 
-*“Declining Terms of Trade after Experiencing Trade Marginalization: Global Evidence from 1982 to 2020” with Bernhard Gunter and Eduardo Lederman Rawet*
+**<ins>“Declining Terms of Trade after Experiencing Trade Marginalization: Global Evidence from 1982 to 2020”</ins>** with Bernhard Gunter and Eduardo Lederman Rawet*
   
   **Abstract:** <br>
     <div align="justify">
