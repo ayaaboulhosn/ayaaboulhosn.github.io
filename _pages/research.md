@@ -38,9 +38,9 @@ Research in International Business and Finance, 2025
 
 
 ## Working Papers
-**<ins>Refugee Immigration and Natives’ Fertility</ins>** with Cevat Giray Aksoy and Berkay Ozcan
+**<ins>[Refugee Immigration and Natives’ Fertility](../files/Refugee_Immigration_and_Natives_Fertility.pdf)</ins>** with Cevat Giray Aksoy and Berkay Ozcan
 <br>
-[CEPR Discussion Paper 2025](../files/Refugee_Immigration_and_Natives_Fertility.pdf)
+CEPR Discussion Paper 2025
 
   **Abstract:** <br>
 <div align="justify">
