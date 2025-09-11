@@ -12,7 +12,7 @@ redirect_from:
 *Fall 2023-present*
 
 - **Econ 241: Intermediate Macroeconomics**  
-  *Fall 2023 & upcoming Fall 2024*
+  *Fall 2023 & Fall 2024*
 
 <br> 
 
