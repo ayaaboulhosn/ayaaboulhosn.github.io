@@ -10,7 +10,7 @@ redirect_from:
 <hr>
 
 ## Job Market Paper
-**<ins>[Refugees and Access to Maternal Health Care Resources: Evidence from Turkey](../files/Migration_and_Maternal_Healthcare.pdf)</ins>**
+**[Refugees and Access to Maternal Health Care Resources: Evidence from Turkey](../files/Migration_and_Maternal_Healthcare.pdf)**
 
   **Abstract:** <br>
 <div align="justify">
@@ -38,7 +38,7 @@ Research in International Business and Finance, 2025
 
 
 ## Working Papers
-**<ins>[Refugee Immigration and Natives’ Fertility](../files/Refugee_Immigration_and_Natives_Fertility.pdf)</ins>** with Cevat Giray Aksoy and Berkay Ozcan
+**[Refugee Immigration and Natives’ Fertility](../files/Refugee_Immigration_and_Natives_Fertility.pdf)** with Cevat Giray Aksoy and Berkay Ozcan
 <br>
 CEPR Discussion Paper 2025
 
