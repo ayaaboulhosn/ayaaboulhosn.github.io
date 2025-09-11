@@ -14,7 +14,7 @@ I am currently a [J-PAL MENA Fellow](https://www.povertyactionlab.org/updates/ad
 Before the PhD, I conducted fieldwork in Sierra Leone and with the World Bank in Lebanon. I received by Bachelors in Economics from UCLA.
 </div>
 <br> 
-I am on the 2025-2026 job market, and available for interviews. You may find my [CV](../files/CV_Aya_Aboulhosn.pdf) and [job market paper](../files/Migration_and_Maternal_Healthcare-2.pdf).
+<b>I am on the 2025-2026 job market, and available for interviews.</b> You may find my [CV](../files/CV_Aya_Aboulhosn.pdf) and [job market paper](../files/Migration_and_Maternal_Healthcare.pdf).
 <br> 
 
 Email: [aa3701a@american.edu](mailto:aa3701a@american.edu?subject=Test)
