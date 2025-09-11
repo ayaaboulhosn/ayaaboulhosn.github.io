@@ -9,6 +9,28 @@ redirect_from:
 
 <hr>
 
+## Job Market Paper
+**<ins>[Refugees and Access to Maternal Health Care Resources: Evidence from Turkey](../files/Migration_and_Maternal_Healthcare.pdf)</ins>**
+
+  **Abstract:** <br>
+<div align="justify">
+How do mass demand shocks affect access to healthcare services, and are wealthier regions better equipped to absorb these shocks? Mass migration represents
+a significant shock to public health goods provision, as increased demand from
+migrants can strain pre-existing healthcare capacity. To examine this, I study
+the Syrian refugee influx into Turkey following the 2011 civil war to estimate the
+causal impact on Turkish women’s access to reproductive healthcare. Using a
+distance-based instrument, I find that Turkish women in areas more exposed to
+refugees are more likely to receive prenatal and postnatal care, plausibly due to a
+shift toward private sector healthcare usage and crowding out of public services.
+The increase in private healthcare usage is concentrated among Turkish women in
+top wealth quintiles and more developed provinces, whereas the effects disappear
+in less developed regions. On the supply side, I observe a reallocation of healthcare professionals and hospital beds from the public to private sector—but only
+in developed provinces. These findings have important implications for the ideal
+allocation of refugees, how policymakers can optimize the distribution of public
+health services, and the crucial role the private sector can play in alleviating the
+burden on the public healthcare system.
+</div>
+
 
 ## Publications
 **[Impact of Political Risk on Emerging Market Risk Premiums and Risk Adjusted Returns](https://www.sciencedirect.com/science/article/abs/pii/S0275531924003660)** with Ralph Sonenshine <br>
@@ -16,14 +38,6 @@ Research in International Business and Finance, 2025
 
 
 ## Working Papers
-**<ins>Refugees and Access to Maternal Health Care Resources: Evidence from Turkey</ins>**
-
-  **Abstract:** <br>
-<div align="justify">
-  To what extent do mass supply and demand shocks to the healthcare system affect access to services? Are wealthier regions better equipped to withstand these shocks? Mass migration is considered a major shock to public health goods provision—increased demand may overwhelm the availability of goods and services, and affect natives’ access to resources. To understand how host governments and natives respond, I leverage the Syrian refugee influx into Turkey after the 2011 civil war to estimate the causal impact of migration on native women’s access to reproductive healthcare services. Using a distance-based instrument, I find Turkish women exposed to more migrants experience higher rates of prenatal and postnatal care usage, compared to women less exposed to migrants. The main mechanism is plausibly a shift to private healthcare usage, likely due to crowding out in public healthcare spaces. Native women in top wealth quintiles and developed provinces in Turkey drive the uptick in private healthcare usage, whereas the effects disappear for less developed provinces. On the supply side, I observe a shift in the quantity of healthcare professionals and hospital beds per capita from public to private spaces—but only in developed provinces. Important implications arise related to the ideal allocation of migrants across Turkey, how policymakers can optimize the distribution of public healthcare resources to compensate for the increased demand, and the crucial role the private sector can play in alleviating the burden on the public healthcare system.
-</div>
-
-
 **<ins>Refugee Immigration and Natives’ Fertility</ins>** with Cevat Giray Aksoy and Berkay Ozcan
 <br>
 [CEPR Discussion Paper 2025](../files/Refugee_Immigration_and_Natives_Fertility.pdf)
