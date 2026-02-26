@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV & Resume"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 <p>
-<a href="/files/CV_Aya_Aboulhosn.pdf" target="_blank">CV</a><br>
-<a href="/files/Resume_Aboulhosn.pdf" target="_blank">Resume</a>
+<a href="/files/CV_Aya_Aboulhosn.pdf" target="_blank" style="font-size:22px;">CV</a><br><br>
+<a href="/files/Resume_Aboulhosn.pdf" target="_blank" style="font-size:22px;">Resume</a>
 </p>
-
