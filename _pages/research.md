@@ -42,7 +42,7 @@ Research in International Business and Finance, 2025
 
 
 ## Working Papers
-**<ins>Declining Terms of Trade after Experiencing Trade Marginalization: Global Evidence from 1982 to 2020</ins>** with Bernhard Gunter and Eduardo Lederman Rawet
+**<ins>Declining Terms of Trade after Experiencing Trade Marginalization: Global Evidence from 1982 to 2020</ins>** with Bernhard Gunter and Eduardo Lederman Rawet <br>
 Revise & Resubmit, International Journal of Interdisciplinary Global Studies
 
 ## Work in Progress
