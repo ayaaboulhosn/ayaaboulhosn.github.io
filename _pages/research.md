@@ -33,28 +33,22 @@ burden on the public healthcare system.
 
 
 ## Publications
+**[Refugee Immigration and Natives’ Fertility](../files/Refugee_Immigration_and_Natives_Fertility.pdf)** with Cevat Giray Aksoy and Berkay Ozcan
+<br>
+Journal of Development Economics, 2027
+
 **[Impact of Political Risk on Emerging Market Risk Premiums and Risk Adjusted Returns](https://www.sciencedirect.com/science/article/abs/pii/S0275531924003660)** with Ralph Sonenshine <br>
 Research in International Business and Finance, 2025
 
 
 ## Working Papers
-**[Refugee Immigration and Natives’ Fertility](../files/Refugee_Immigration_and_Natives_Fertility.pdf)** with Cevat Giray Aksoy and Berkay Ozcan
-<br>
-Revise & Resubmit, Journal of Development Economics
-
-  **Abstract:** <br>
-<div align="justify">
-  The discussion on whether immigration solves the problems of population aging often focus on the fertility of immigrants. Additionally, standard projections consider the impact of migration on population growth but assume that the natives’ fertility does not change in response to migration. By contrast, we show that the native fertility is affected by immigration. In particular, we leverage the Syrian refugee migration to specific Turkish provinces shortly after the 2011 civil war as a source of variation in exposure to immigration. Employing two complementary instrumental variable strategies, we provide evidence that the fertility of natives increases in response to mass migration. These findings are robust across two distinct datasets, and we also observe a corresponding rise in subjective measures of fertility (that is, the ideal number of  children). Furthermore, we conduct additional analyses to examine four potential mechanisms and to highlight heterogeneity in fertility responses among different population subgroups. Our results suggest that factors related to the labor market and norm transmission can plausibly explain the observed increase in native fertility. 
-</div>
-<br>
-
+**<ins>Declining Terms of Trade after Experiencing Trade Marginalization: Global Evidence from 1982 to 2020</ins>** with Bernhard Gunter and Eduardo Lederman Rawet
+Revise & Resubmit, International Journal of Interdisciplinary Global Studies
 
 ## Work in Progress
 **<ins>Do Migrants and Natives Differ in Health Care Usage? Evidence from Venezuelan Refugees in Colombia</ins>** with Sebastian Bauhoff and Sofia Castro Vargas
 
 **<ins>The Impact of Remittances on Household Consumption: Evidence from Jordan</ins>**
-  
-**<ins>Declining Terms of Trade after Experiencing Trade Marginalization: Global Evidence from 1982 to 2020</ins>** with Bernhard Gunter and Eduardo Lederman Rawet
 
 <br>
 
